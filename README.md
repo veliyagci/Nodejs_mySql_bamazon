@@ -1,23 +1,23 @@
 # Bamazon ( Amazon like StoreFront)
 
-##Overview
+## Overview
 
  The app takes in orders from customers and deplete stock from the store's inventory.
 
- ##Built with
+ ## Built with
 
 * MySQL
 * Node.JS
 * JavaScript
 
-##bamazonCustomer.js:
+## bamazonCustomer.js:
 
 * Displays a table with the inventory
 * Takes a customer's order
 * Computes the cost
 * Depletes the stock from the store's inventory
 
-##bamazonManager.js - allows a manager to:
+## bamazonManager.js - allows a manager to:
 
 * View Products for Sale
 * View Low Inventory
@@ -25,8 +25,8 @@
 * Add New Product
 * Delete a Product
 
-###for Efficiency, please check the ( screenshots ) folder .
+### for Efficiency, please check the ( screenshots ) folder .
 
-####Thanks!
+#### Thanks!
 
-####created by Veli Yagci
+#### created by Veli Yagci
